@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HWq45A50B20zZVoGRwjGRqouiUWxKWp9EsmdEoKcRgs=",
+  "Source": "FARS_GetData",
+  "BasePath": "_content/FARS_GetData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

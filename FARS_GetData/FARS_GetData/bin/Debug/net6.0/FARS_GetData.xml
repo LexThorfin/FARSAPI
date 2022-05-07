@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FARS_GetData</name>
+    </assembly>
+    <members>
+        <member name="M:FARS_GetData.Controllers.MasterDataController.getStates">
+            <summary>
+            Just getting the master data for states and their code numbers
+            </summary>
+            <remarks>
+            Please note, the ID codes are not what you would expect them to be, either alphabetically, or through date becoming state
+            and that some of them aren't states
+            </remarks>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
